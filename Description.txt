@@ -1,0 +1,4 @@
+Title: Orange - Plum Dataset Analysis and Visualization
+
+Description:
+A custom Orange data mining project using a self-created Plum dataset containing fruit diameter, height, and weight information. The workflow explores the data through distribution analysis to observe feature separations and intersections, while the Data Table is used to inspect and compare selected subsets from the Scatter Plot. This project demonstrates how to visually analyze and interpret physical correlations in small-scale datasets.
